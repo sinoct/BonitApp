@@ -1,0 +1,76 @@
+{
+  "desserts": [
+    {
+      "itemID": 147,
+      "name": "Creme Brulée",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 148,
+      "name": "Tiramisu Classic",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 149,
+      "name": "Panna Cotta",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 150,
+      "name": "Cantuccino",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 151,
+      "name": "Sorrento-i citromtorta",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 152,
+      "name": "Házi sajtkrémtorta",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 153,
+      "name": "Zuppa Inglese",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 154,
+      "name": "Zuppa Inglese di Roma",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 155,
+      "name": "Narancsos csokoládétorta",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 156,
+      "name": "Nápolyi Gizella tortája",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 157,
+      "name": "Torta di Pistacchio",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 158,
+      "name": "Nápolyi Calzone nutellával és mascarponéval töltve",
+      "ingredients": "todo",
+      "price": "todo"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "grill": [
+    {
+      "itemID": 133,
+      "name": "Grill padlizsán",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 134,
+      "name": "Csirkesteak",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 135,
+      "name": "Fűszeres karaj steak",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 136,
+      "name": "Fűszeres karaj steak",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 137,
+      "name": "Pokoli pecsenye",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 138,
+      "name": "Grillezett füstölt sajt",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 139,
+      "name": "Pulykasteak",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 140,
+      "name": "Szecsuáni csirkehús",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 141,
+      "name": "Tengeri halszeletek",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 142,
+      "name": "Hússzeletek marhából",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 143,
+      "name": "Marha steak (200g)",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 144,
+      "name": "Mediterrán fekete kagyló (marinara)",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 145,
+      "name": "Mediterrán fekete kagyló (zelleres)",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 146,
+      "name": "Mediterrán fekete kagyló (paradicsomos)",
+      "ingredients": "todo",
+      "price": "todo"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "drinks": [
+    {
+      "itemID": 159,
+      "name": "Narancslé",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 160,
+      "name": "Házi limonádé",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 161,
+      "name": "Bonita fröccs",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 162,
+      "name": "Szürt viz",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 163,
+      "name": "Szóda",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 164,
+      "name": "Üdítők",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 165,
+      "name": "A ház borai, száraz",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 166,
+      "name": "Sörök",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 167,
+      "name": "Csapolt sör",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 168,
+      "name": "Limoncello citronata",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 169,
+      "name": "Ramasotti",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 170,
+      "name": "Grappa",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 180,
+      "name": "Aperol Spritz koktél",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 181,
+      "name": "Grappa",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 182,
+      "name": "Hugo Spritz koktél",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 183,
+      "name": "Martini Fiero koktél",
+      "ingredients": "todo",
+      "price": "todo"
+    }
+  ]
+}

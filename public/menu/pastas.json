@@ -1,0 +1,270 @@
+{
+  "pastas": {
+    "normal": [
+      {
+        "itemID": 93,
+        "name": "Spaghetti aglio, olio e pepperoncini",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 94,
+        "name": "Spaghetti Napoletana",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 95,
+        "name": "Penne all'Arrabbiata",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 96,
+        "name": "Rozé penne",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 97,
+        "name": "Vegetáriánus",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 98,
+        "name": "Penne contadinal",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 99,
+        "name": "Spaghetti carbonara",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 100,
+        "name": "Csabai ízek",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 101,
+        "name": "Pasta brokkoli",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 102,
+        "name": "Mascarponés farfalle vagy fusili",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 104,
+        "name": "Spenótos fusili",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 105,
+        "name": "Szultán tésztája",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 106,
+        "name": "Alfredo penne",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 107,
+        "name": "Török penne",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 108,
+        "name": "Penne Toscana",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 109,
+        "name": "Bolognai spaghetti",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 110,
+        "name": "Spaghetti frutti de mare",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 111,
+        "name": "Lazacos farfalle",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 112,
+        "name": "Tészta mediterrán fekete kagylóval",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 113,
+        "name": "Garnélás spaghetti",
+        "ingredients": "todo",
+        "price": "todo"
+      }
+    ],
+    "puglia": [
+      {
+        "itemID": 114,
+        "name": "Pasta Genovese",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 115,
+        "name": "Papfojtó",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 116,
+        "name": "Antonio tésztája",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 117,
+        "name": "Bufala mozzarellás tészta - napi tészta kínálattal",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 118,
+        "name": "Bonita tészta",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 119,
+        "name": "Pasta Napoli",
+        "ingredients": "todo",
+        "price": "todo"
+      }
+    ],
+    "homeMade": [
+      {
+        "itemID": 120,
+        "name": "Scialatielli",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 121,
+        "name": "Gnocchi 3 colori",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 122,
+        "name": "Gnocchi 4 formaggi",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 123,
+        "name": "Tonhalas tagliatelle",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 124,
+        "name": "Tagliatelle Italia",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 125,
+        "name": "Aranyló házi készítésű erdei gombás pappardelle",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 126,
+        "name": "Ravioli spenót",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 127,
+        "name": "Zöld ravioli gorgonzolával",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 128,
+        "name": "Gnocchi pirított sonkával",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 129,
+        "name": "Vajas Garnélás Scialatielli",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 130,
+        "name": "Nduja Scialatielli D.O.P",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 131,
+        "name": "Kacsa ragus Scialatielli",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 132,
+        "name": "Vongole és Nduja",
+        "ingredients": "todo",
+        "price": "todo"
+      }
+    ],
+    "parmesan": [
+      {
+        "itemID": 132,
+        "name": "Észak-Olasz speck sonkával, cukkinivel,",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 132,
+        "name": "Gnocchi házi tészta tejszínes rukkolával, csirkehúsokkal",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 132,
+        "name": "Scialatielli paradicsomos marharaguval,",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 132,
+        "name": "Pasta della Nonna: sodort házi tészta,",
+        "ingredients": "todo",
+        "price": "todo"
+      }
+    ]
+  }
+}

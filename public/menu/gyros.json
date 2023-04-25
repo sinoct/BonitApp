@@ -1,0 +1,28 @@
+{
+  "gyros": [
+    {
+      "itemID": 6,
+      "name": "Csirkés gyros pitában",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 7,
+      "name": "Görög saláta pitában ",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 8,
+      "name": "Vega pita",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 9,
+      "name": "Szultán tál",
+      "ingredients": "todo",
+      "price": "todo"
+    }
+  ]
+}

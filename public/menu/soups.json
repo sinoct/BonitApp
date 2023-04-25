@@ -1,0 +1,34 @@
+{
+  "soups": [
+    {
+      "itemID": 1,
+      "name": "Nápolyi paradicsomleves",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 2,
+      "name": "Minestrone zöldségleves",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 3,
+      "name": "Szezonális leves",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 4,
+      "name": "Savanyú-erős leves",
+      "ingredients": "todo",
+      "price": "todo"
+    },
+    {
+      "itemID": 5,
+      "name": "Bajor májgombócleves",
+      "ingredients": "todo",
+      "price": "todo"
+    }
+  ]
+}

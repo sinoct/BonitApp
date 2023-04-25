@@ -1,0 +1,404 @@
+{
+  "pizzas": {
+    "electricOven": [
+      {
+        "itemID": 26,
+        "name": "Focaccia",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 27,
+        "name": "Pizza Marinara",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 28,
+        "name": "Grissini",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 29,
+        "name": "Margherita",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 30,
+        "name": "Gombás",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 31,
+        "name": "Sonkás",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 32,
+        "name": "Modena",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 33,
+        "name": "Hawai",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 34,
+        "name": "Ökörszem",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 35,
+        "name": "Vega",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 36,
+        "name": "Mexikói",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 37,
+        "name": "Verdura",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 38,
+        "name": "Tarjás",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 39,
+        "name": "Húsos",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 40,
+        "name": "Sonkás-gombás",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 41,
+        "name": "Ham and eggs",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 42,
+        "name": "Piedone",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 43,
+        "name": "Mustáros tarjás",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 44,
+        "name": "Bajor",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 45,
+        "name": "Baconos",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 46,
+        "name": "Szicíliai",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 47,
+        "name": "Chilis",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 48,
+        "name": "Csabai csípős",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 49,
+        "name": "Inyenc",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 50,
+        "name": "Pizza Bufala",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 51,
+        "name": "Pepperoni",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 52,
+        "name": "Salami Milano",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 53,
+        "name": "Pizza Napoli",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 54,
+        "name": "Quattro formaggi",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 55,
+        "name": "Szultán kedvence",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 56,
+        "name": "Gyros",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 57,
+        "name": "Mustáros csirkés",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 58,
+        "name": "Tanyasi",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 59,
+        "name": "Pizza Calabria",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 60,
+        "name": "Tonhalas",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 61,
+        "name": "Hústorony",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 62,
+        "name": "Quattro stagioni",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 63,
+        "name": "Feketeerdei pizza",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 64,
+        "name": "Mascarpone",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 65,
+        "name": "Pármai sonkás",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 66,
+        "name": "Frutti di Mare",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 67,
+        "name": "Pizza Bonita",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 68,
+        "name": "Made in Italy Pizza",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 69,
+        "name": "Pizza Latina",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 70,
+        "name": "Pizza, ahogy ön szereti",
+        "ingredients": "todo",
+        "price": "todo"
+      }
+    ],
+    "stoneOven": [
+      {
+        "itemID": 71,
+        "name": "Focaccia",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 72,
+        "name": "Focaccia Rossa",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 73,
+        "name": "Marinara",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 74,
+        "name": "Margherita",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 75,
+        "name": "Al filetto",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 76,
+        "name": "Bufalina D.O.P",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 77,
+        "name": "Pizza Vegetariano",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 78,
+        "name": "Quattro formaggi",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 79,
+        "name": "Proscutto cotto",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 80,
+        "name": "Pancetta",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 81,
+        "name": "Salami Milano",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 82,
+        "name": "Diavola",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 83,
+        "name": "Sárga pizza",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 84,
+        "name": "Zöld pestos pizza",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 85,
+        "name": "Tonno Napoletana",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 86,
+        "name": "Napoli - Békéscsaba",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 87,
+        "name": "Pizza Italiano",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 89,
+        "name": "Nduja Calabrese D.O.P",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 90,
+        "name": "Sárga pizza pancettával",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 91,
+        "name": "Proscutto Crudo",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 92,
+        "name": "Nápolyi Calzone nutellával és mascarponéval töltve",
+        "ingredients": "todo",
+        "price": "todo"
+      }
+    ]
+  }
+}

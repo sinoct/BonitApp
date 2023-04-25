@@ -1,0 +1,104 @@
+{
+  "salads": {
+    "bowls": [
+      {
+        "itemID": 10,
+        "name": "Bruschetta",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 11,
+        "name": "Görög",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 12,
+        "name": "Mediterrán falatok",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 13,
+        "name": "Caprese",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 14,
+        "name": "Szicíliai",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 15,
+        "name": "Grande verdura",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 16,
+        "name": "Rucola verdura",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 17,
+        "name": "Caesar",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 18,
+        "name": "Bonita saláta",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 19,
+        "name": "Görög-csirke tál",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 20,
+        "name": "Bufala Caprese D.O.P. tál",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 21,
+        "name": "Nizzai",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 22,
+        "name": "Made in Italy tál",
+        "ingredients": "todo",
+        "price": "todo"
+      }
+    ],
+    "extra": [
+      {
+        "itemID": 23,
+        "name": "Házi készítésű kiscipó",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 24,
+        "name": "Focaccia",
+        "ingredients": "todo",
+        "price": "todo"
+      },
+      {
+        "itemID": 25,
+        "name": "Grissini",
+        "ingredients": "todo",
+        "price": "todo"
+      }
+    ]
+  }
+}
