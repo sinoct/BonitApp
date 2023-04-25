@@ -12,7 +12,7 @@ const QuestionBox: FunctionComponent<QuestionBoxProps> = ({ setter }) => {
   const clickHandler = (answer: boolean) => {
     setAnswer(answer);
     setIsAnsered(true);
-    setter(answer);
+    setter(!answer);
   };
   return (
     <div className="question-box flex flex-col justify-center items-center">
